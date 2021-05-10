@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CurrencyConversion" parent="Theme.AppCompat.NoActionBar">
+    </style>
+
+    <style name="MyEditTextTheme">
+        <item name="colorControlActivated">#F6836B</item>
+        <item name="colorControlHighlight">#FFF</item>
+    </style>
+</resources>

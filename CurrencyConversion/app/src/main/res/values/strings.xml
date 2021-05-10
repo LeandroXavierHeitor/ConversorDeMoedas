@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="neste_app_voc_poder_fazer_suas_convers_es_entre_moedas_de_acordo_com_a_ltima_cota_o_lan_ada">Neste app você poderá fazer suas conversões entre moedas de acordo com a última cotação atualizada em 24 horas.</string>
+
+
+    <string-array name="currencies">
+        <item>EUR</item>
+
+        <item>GBP</item>
+        <item>USD</item>
+        <item>DKK</item>
+
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+
+    </string-array>
+
+</resources>
