@@ -1,5 +1,6 @@
-## Conversor de Moedas 💱
-- Aplicativo feito com o objetivo de converter diferentes moedas de acordo com a cotação atualizada nas últimas 24 horas 📱
+## 💱 Conversor de Moedas 
+📱 Aplicativo feito com o objetivo de converter diferentes moedas de acordo com a cotação atualizada nas últimas 24 horas.
+💻 Desenvolvido totalmente com Java, utilizando a API ExchangeRateAPI
 
 
 
