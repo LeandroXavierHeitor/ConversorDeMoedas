@@ -4,5 +4,6 @@
 💻 Desenvolvido totalmente com Java, utilizando a API ExchangeRateAPI.
 
 
+https://github.com/LeandroXavierHeitor/ConversorDeMoedas/issues/1#issue-884180308
 
 
