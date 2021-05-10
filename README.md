@@ -1,5 +1,5 @@
 # Conversor de Moedas 💱
-Um app feito com o intuito de convertes diferentes moedas existentes no mundo. Clique para saber mais !
+- Aplicativo feito com o objetivo de converter diferentes moedas de acordo com a cotação atualizada nas últimas 24 horas 📱
 
 
 
